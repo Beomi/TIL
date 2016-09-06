@@ -11,3 +11,9 @@
 - 오늘 새로 적용한 것
 이 두 가지를 위주로 적을 수 있을 것 같다.
 새로운 세미나를 간다거나 하는 등의 Event들도 좋은 글감이 될 것 같다. :)
+
+## 목차
+### 2016
+#### Django TwoScoop 읽기모임
+- [장고 투스쿱 읽기모임 월요일 2회차](https://github.com/Beomi/TIL/blob/master/2016/python/DTSRS_S2%23Dev_Env_Settings.md)
+  (코딩컨벤션, 개발환경, 프로젝트/앱디자인, 환경변수)
